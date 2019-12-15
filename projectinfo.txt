@@ -1,1 +1,4 @@
 This is the first file of the project.
+Second modification - after first commit.
+
+THis line was added after the above line is stagged.
